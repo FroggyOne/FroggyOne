@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning BASH
 - 💞️ I’m not ready to collaborate
 - :) But certainly willing to communicate!
-- 📫 How to reach me ... gunner1912@mail.com
+- 📫 How to reach me ... honeyspot11@outlook.com
 ![G_FROG](https://github.com/FroggyOne/FroggyOne/assets/149318267/deff19e0-2f28-4e91-9024-97d40e82bc41)
 
 <!---
